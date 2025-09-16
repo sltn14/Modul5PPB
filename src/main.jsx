@@ -10,6 +10,9 @@ import DesktopNavbar from './components/navbar/DesktopNavbar';
 import MobileNavbar from './components/navbar/MobileNavbar';
 import './index.css'
 
+
+import PWABadge from './PWABadge';
+
 function AppRoot() {
   const [showSplash, setShowSplash] = useState(true);
   const [currentPage, setCurrentPage] = useState('home');
@@ -53,6 +56,8 @@ function AppRoot() {
       
       {/* Mobile Navbar */}
       <MobileNavbar currentPage={currentPage} onNavigate={handleNavigation} />
+
+      <PWABadge />
     </div>
   );
 }
