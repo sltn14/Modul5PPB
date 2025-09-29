@@ -1,6 +1,4 @@
 // src/pages/ProfilePage.jsx
-import React from 'react';
-
 export default function ProfilePage() {
   return (
     <div className="p-4 md:p-8 pb-20 md:pb-8">
