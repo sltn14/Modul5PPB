@@ -7,6 +7,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react(), VitePWA(), tailwindcss(),({
     registerType: 'autoUpdate',
+    includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png', 'LOGORN.png'],
     injectRegister: false,
 
     pwaAssets: {

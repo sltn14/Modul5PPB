@@ -9,8 +9,6 @@ import ProfilePage from './pages/ProfilePage';
 import DesktopNavbar from './components/navbar/DesktopNavbar';
 import MobileNavbar from './components/navbar/MobileNavbar';
 import './index.css'
-
-
 import PWABadge from './PWABadge';
 
 function AppRoot() {

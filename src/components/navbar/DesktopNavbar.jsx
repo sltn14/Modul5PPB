@@ -1,4 +1,6 @@
 // src/components/DesktopNavbar.jsx
+import logoUrl from '../../assets/LOGORN.png';
+
 export default function DesktopNavbar({ currentPage, onNavigate }) {
   const navItems = [
     { id: 'home', label: 'Beranda' },
@@ -16,7 +18,7 @@ export default function DesktopNavbar({ currentPage, onNavigate }) {
           <div className="flex items-center space-x-4">
             <div className="relative group">
               <img
-                src="/LOGORN.png"
+                src={logoUrl}
                 alt="Resep Nusantara Logo"
                 className="w-12 h-12 object-contain filter drop-shadow-md transform transition-transform duration-300 group-hover:scale-110"
               />

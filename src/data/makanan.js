@@ -81,7 +81,7 @@ export const ResepMakanan = {
         "Goreng ayam hingga kecokelatan.",
         "Goreng adonan kremes, sajikan bersama ayam."
       ],
-      "image_url": "https://img.kurio.network/Pa92bjntWvRIJhoPJM1rzn1XwnA=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/20/11/15/8a268b5c-94d1-40b4-98e6-5ec5f6218e98.jpeg"
+      "image_url": "https://www.dapurkobe.co.id/wp-content/uploads/ayam-pentung-crispy.jpg"
     },
     "resep5": {
       "id": 5,
@@ -100,7 +100,7 @@ export const ResepMakanan = {
         "Susun sayuran rebus dan lontong di piring.",
         "Siram dengan saus kacang, sajikan."
       ],
-      "image_url": "https://www.masakapahariini.com/wp-content/uploads/2019/01/gado-gado-MAHI.jpg"
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gado_gado_jakarta.jpg"
     },
     "resep6": {
       "id": 6,
@@ -118,7 +118,7 @@ export const ResepMakanan = {
         "Rebus pempek hingga matang, angkat.",
         "Goreng pempek, sajikan dengan cuko."
       ],
-      "image_url": "https://www.masakapahariini.com/wp-content/uploads/2023/06/pempek-palembang.jpeg"
+      "image_url": "https://lingkar.news/wp-content/uploads/2023/03/Aneka-Resep-Pempek-Makanan-Tradisional-Khas-Palembang.jpg"
     },
     "resep7": {
       "id": 7,
