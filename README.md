@@ -38,8 +38,8 @@ Pastikan kamu sudah menginstal **Node.js v18+** dan **npm** di sistem kamu.
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/sltn14/Resep-Nusantara.git
-cd Resep-Nusantara
+git clone https://github.com/sltn14/Modul5PPB.git
+cd Modul5PPB
 ````
 
 ### 3. Instalasi Dependensi
@@ -147,4 +147,5 @@ Proyek ini dirilis di bawah lisensi **MIT License** — bebas digunakan, dikemba
 > — *Resep Nusantara Dev Team 🍳*
 
 ```
+
 
