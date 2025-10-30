@@ -1,9 +1,3 @@
-Siap, Sultan 😎
-Berikut versi **README.md** yang jauh lebih rapi, profesional, dan cocok buat dipajang di GitHub biar keliatan “niat dibangun”, bukan hasil template mentah.
-
----
-
-````markdown
 # 🍲 Resep Nusantara
 
 > **Aplikasi web modern untuk menjelajahi kekayaan kuliner Indonesia.**  
@@ -153,3 +147,4 @@ Proyek ini dirilis di bawah lisensi **MIT License** — bebas digunakan, dikemba
 > — *Resep Nusantara Dev Team 🍳*
 
 ```
+
